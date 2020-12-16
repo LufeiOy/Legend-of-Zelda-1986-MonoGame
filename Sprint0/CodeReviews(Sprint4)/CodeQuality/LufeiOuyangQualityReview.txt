@@ -1,0 +1,12 @@
+Lufei Ouyang
+7/20/2020
+Sprint4
+Inventory.cs
+Main Author: Zhizhou He
+Time: 5 min
+
+
+The code file does not have much logic or nesting conditions.
+Each different state corresponds to a different method, which makes the code modular and increases testability.
+This means that maintainability is very high. If you want to change something, you only need to change the corresponding method.
+Easy to implement and easy to manage. In general, the quality of this code is good.

@@ -1,0 +1,13 @@
+Zhizhou He
+7/20/2020
+Sprint4
+Transitioning.cs
+Main Author: Chuwen Sun
+Time: 5 min
+
+This file plays one of the most important roles in the game. Although the code is not very long, I think the difficulty and functionality are high.
+
+The code connects with Game.cs to get current room information, it will be invoked while player goes to another room.
+The code uses Update() function to change the Room's source rectangle so it looks like scrolling to another one. I think it is very smart.
+
+This code is also derives Pause screen scrolling, so it has good expansibility.

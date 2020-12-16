@@ -1,0 +1,15 @@
+Zhizhou He
+7/20/2020
+Sprint4
+HudMap.cs
+Main Author: Zilin Shao
+Time: 5 min
+
+In the first glance, the file has very neat layout so it is very easy to check its functionality .
+
+The code stucture is relatively easy. The staticMapDraw funtion is for drawing the visited map and it is sepearted from
+the Draw() method, so it is easy for maintence and any modification. 
+
+The code uses good names for variable so it is easy to know what they do. 
+
+In conclusion, I think the readability of this code is good.

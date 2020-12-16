@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Room>
+	<player xpos="100" ypos="100" />
+	<hud type="HealthBar" xpos="50" ypos="50" />
+	<hud type="WeaponSlot" xpos="150" ypos="50" />
+	<exterior type="exRoom" xpos="0" ypos="168" />
+	<interior type="RoomBlock" xpos="91" ypos="262" />
+	<wallCube type="WallTop" xpos="332" ypos="168" />
+	<wallCube type="WallDown" xpos="332" ypos="602" />
+	<wallCube type="DoorLeft" xpos="0" ypos="382" />
+	<wallCube type="DoorRight" xpos="672" ypos="381" />
+	<enemy type="Moblin" xpos="50" ypos="455"/>
+	<enemy type="Rope" xpos="506" ypos="407"/>
+	<enemy type="Peahat" xpos="600" ypos="455"/>
+	<enemy type="Tektite" xpos="160" ypos="455"/>
+	<enemy type="Keese" xpos="200" ypos="455"/>
+	<enemy type="Goriya" xpos="50" ypos="554"/>
+	<enemy type="Stalfos" xpos="334" ypos="358"/>
+	<enemy type="Zol" xpos="554" ypos="255"/>
+	<enemy type="Wallmaster" xpos="382" ypos="358"/>
+	<enemy type="Trap" xpos="286" ypos="358"/>
+	<enemy type="Aqua" xpos="286" ypos="540"/>
+	<enemy type="Dodongo" xpos="96" ypos="506"/>
+	<enemy type="Oldman" xpos="286" ypos="358"/>
+	<enemy type="Merchant" xpos="238" ypos="358"/>
+</Room>

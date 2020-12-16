@@ -1,0 +1,12 @@
+Lufei Ouyang
+7/20/2020
+Sprint4
+Inventory.cs
+Main Author: Zhizhou He
+Time: 5 min
+
+The logic of Inventory.cs is very clear. Not too many nesting conditions can improve the readability of the entire document.
+Zhizhou also uses comments for each condition,
+this makes the code easier to understand. Furthermore, the name of each variable is Pascal naming convention,
+Therefore, it improves the readability of the entire code. 
+Overall, Inventory.cs is a great class. It is very easy to understand the meaning of the code.
